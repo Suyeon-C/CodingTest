@@ -14,8 +14,7 @@
 - [세 수의 합](https://leetcode.com/problems/3sum/)
 - [배열 파티션I](https://leetcode.com/problems/array-partition-i/)
 - [자신을 제외한 배열의 곱](https://leetcode.com/problems/product-of-array-except-self/)
-- [주식을 사고 팔기 가장 좋은 시점]*https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-
+- [주식을 사고 팔기 가장 좋은 시점](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 
 ### 교재: 파이썬 알고리즘 리뷰
